@@ -2,7 +2,7 @@
 
 Hugo allows you to edit statics when you use a theme. So, you can overwrite any file.  
 
-We suggest to replace these statics; [**/static/logo.png**](/static/logo.png), [**/static/background.jpeg**](/static/background.jpeg), [**/static/CNAME**](/static/CNAME), [**/static/favicon.ico**](/static/favicon.ico).  
+We suggest to replace these statics; [**/static/logo.jpg**](/static/logo.jpg), [**/static/background.jpeg**](/static/background.jpeg), [**/static/CNAME**](/static/CNAME), [**/static/favicon.ico**](/static/favicon.ico).  
 
 You just need to create related file(s) inside your project. They should be in same path.  
 Do not edit the theme directly, otherwise it may break your upgrade in future.

@@ -8,7 +8,7 @@ params:
   image: /images/banner.png
   subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
-  author: Lovely Author # todo: set your full name.
+  author: Amanda Seasholtz Photography # todo: set your full name.
   dontShowSource: false # please, do not do this :)
   portfolio:
     columns:
