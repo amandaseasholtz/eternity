@@ -1,4 +1,4 @@
-# Eternity
+# Amanda Seasholtz Photography
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/boratanrikulu/eternity/main/doc/logo.jpg">

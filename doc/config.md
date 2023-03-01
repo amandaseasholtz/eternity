@@ -4,9 +4,9 @@ Example config is here: [**config.yaml**](/config.example.yaml)
 
 You can use `title`, `subtitle` and `image` variables for your website. Same variables are available for post pages.
 ```yaml
-title: Eternity
+Amanda Seasholtz Photography
 params:
-  subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.
+  subtitle: eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.
   image: '/images/about.png`
 ```
 
