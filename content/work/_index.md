@@ -11,18 +11,3 @@ url: work
 		This is demo site for <strong>Eternity</strong> theme. All images are taken from Unsplash.
 	</p>
 </div>
-
-#### Features
-
-- **Configurable** features.
-
-- **Multiple images** support.
-
-- Clean, fresh, **minimalist**.
-
-- Integrated **lazy load**.
-
-- Automaticly creates **resized** thumbnails.
-
-- Shows **exif** if it exists.
-

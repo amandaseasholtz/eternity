@@ -437,16 +437,9 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/about/</guid>
-      <description>Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.This is demo site for Eternity theme. All images are taken from Unsplash.Features Configurable features.
-Multiple images support.
-Clean, fresh, minimalist.
-Integrated lazy load.
-Automaticly creates resized thumbnails.
-Shows exif if it exists.
-Installation Install Hugo.
-Create a new site.
-hugo new site yoursite cd yoursite Remove default config file.
-rm config.toml Submodule the theme.</description>
+      <description>Amanda Seasholtz Photography is based out of Palm Bay, FL.
+
+=</description>
     </item>
     
   </channel>
