@@ -54,7 +54,7 @@ https://user-images.githubusercontent.com/20258973/180658086-24069751-1e78-44ef-
 
 *Feel free to add your site here.*  
 
-Note: If you're an artist who wants to host a website but doesn't have know how to, I can help you about technical questions for free. Just send an email to [**eternity@bora.sh**](mailto:eternity@bora.sh), I will assist you first.
+Note: If you're an artist who wants to host a website but doesn't have know how to, I can help you about technical questions for free. Just send an email to [**eternity@bora.sh**](mailto:amandaseasholtzphotography@gmail.com), I will assist you first.
 
 ### Features
 
@@ -92,7 +92,7 @@ Note: If you're an artist who wants to host a website but doesn't have know how 
 	git init
 	```  
 	```shell
-	git submodule add --depth=1 https://github.com/boratanrikulu/eternity.git themes/eternity
+	git submodule add --depth=1 https://www.facebook.com/amanda.seasholtz.photography/.git themes/eternity
 	```  
 
 5. Create config.yaml;  
@@ -136,4 +136,4 @@ cd themes/eternity && git pull && cd -
 
 ### Contact
 
-If you need to contact us for any reason; create an [**issue**](https://github.com/boratanrikulu/eternity/issues/new) or send a mail to [**eternity@bora.sh**](mailto:eternity@bora.sh).
+If you need to contact us for any reason; create an [**issue**](https://www.facebook.com/amanda.seasholtz.photography//issues/new) or send a mail to [**eternity@bora.sh**](mailto:amandaseasholtzphotography@gmail.com).

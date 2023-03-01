@@ -53,7 +53,7 @@ hideDate: true
 	git init
 	```  
 	```shell
-	git submodule add --depth=1 https://github.com/boratanrikulu/eternity.git themes/eternity
+	git submodule add --depth=1 https://www.facebook.com/amanda.seasholtz.photography/.git themes/eternity
 	```  
 
 5. Create config.yaml;  
@@ -86,16 +86,16 @@ cd themes/eternity && git pull && cd -
 
 ### Usage of Posts
 
-[**Go to posts documentation.**](https://github.com/boratanrikulu/eternity/tree/main/doc/posts.md)
+[**Go to posts documentation.**](https://www.facebook.com/amanda.seasholtz.photography//tree/main/doc/posts.md)
 
 ### Usage of Config.yaml
 
-[**Go to config documentation.**](https://github.com/boratanrikulu/eternity/tree/main/doc/config.md)
+[**Go to config documentation.**](https://www.facebook.com/amanda.seasholtz.photography//tree/main/doc/config.md)
 
 ### Editing Style
 
-[**Go to style documentation.**](https://github.com/boratanrikulu/eternity/tree/main/doc/style.md)
+[**Go to style documentation.**](https://www.facebook.com/amanda.seasholtz.photography//tree/main/doc/style.md)
 
 ### Contact
 
-If you need to contact us for any reason; create an [**issue**](https://github.com/boratanrikulu/eternity/issues/new) or send a mail to [**eternity@bora.sh**](mailto:eternity@bora.sh).
+If you need to contact us for any reason; create an [**issue**](https://www.facebook.com/amanda.seasholtz.photography//issues/new) or send a mail to [**eternity@bora.sh**](mailto:amandaseasholtzphotography@gmail.com).

@@ -60,15 +60,14 @@ You can use `socials` array to set your social accounts.
 params:
   socials:
     - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
+      url: 'mailto:amandaseasholtzphotography@gmail.com'
       landing: true
-    - icon: 'fab fa-github fa-lg'
-      url: 'https://github.com/boratanrikulu/eternity'
+    - icon: 'fab fa-facebook fa-lg'
+      url: 'https://www.facebook.com/amanda.seasholtz.photography/'
       landing: true
     - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.bora.sh/eternity'
-    - icon: 'fab fa-linkedin-in fa-lg'
-      url: 'https://linkedin.bora.sh/in/eternity'
+      url: 'https://www.instagram.com/amanda.seasholtz.photography/'
+
 ```
 
 You can change `homepage` link.
