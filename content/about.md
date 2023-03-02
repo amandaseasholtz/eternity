@@ -7,81 +7,29 @@ hideTitle: true
 hideExif: true
 hideDate: true
 ---
-
 <div align="center">
 	<p>
-        Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.
-	</p>
-	<p>
-		This is demo site for <strong>Eternity</strong> theme. All images are taken from Unsplash.
-	</p>
+		With each aperature
+		your timeless story captured
+		through art, remembrance
+		
+		A haiku by Amanda Seasholtz
+		
+		My goals:
+		1. Creating unforgettable memories with each aperature. 
+		2. Documenting it all through art.
+		3. Share stories of love, loss, hopes, dreams and everything in between.  
+	
 </div>
 
-### Installation
-
-1. Install Hugo.
-
-2. Create a new site.  
-	```shell
-	hugo new site yoursite
-	```  
-	```shell
-	cd yoursite
-	```  
-
-3. Remove default config file.  
-	```shell
-	rm config.toml
-	```  
-
-4. Submodule the theme.  
-	```shell
-	git init
-	```  
-	```shell
-	git submodule add --depth=1 https://www.facebook.com/amanda.seasholtz.photography/.git themes/eternity
-	```  
-
-5. Create config.yaml;  
-	Apply (1) or (2).  
-
-	1. Use the example project (recommended).  
-		Copy all files from the example project.  
-		```shell
-		cp -r ./themes/eternity/example/eternity.bora.sh/* .
-		```  
-	2. Use empty content.  
-		Copy example config.  
-		```shell
-		cp ./themes/eternity/config.example.yaml ./config.yaml
-		```  
-6. Start the server.
-	```shell
-	hugo serve --port 1313
-	```  
-
-7. Go to [localhost:1313](http://localhost:1313).
+<div align="left">
+	<p>
+		My goals:
+		1. Creating unforgettable memories with each aperature. 
+		2. Documenting it all through art.
+		3. Share stories of love, loss, hopes, dreams and everything in between.  
+	
+</div>
 
 
-### Upgrade
-
-To get last updates, just git pull.
-```shell
-cd themes/eternity && git pull && cd -
-```
-
-### Usage of Posts
-
-[**Go to posts documentation.**](https://www.facebook.com/amanda.seasholtz.photography//tree/main/doc/posts.md)
-
-### Usage of Config.yaml
-
-[**Go to config documentation.**](https://www.facebook.com/amanda.seasholtz.photography//tree/main/doc/config.md)
-
-### Editing Style
-
-[**Go to style documentation.**](https://www.facebook.com/amanda.seasholtz.photography//tree/main/doc/style.md)
-
-### Contact
-
-If you need to contact us for any reason; create an [**issue**](https://www.facebook.com/amanda.seasholtz.photography//issues/new) or send a mail to [**eternity@bora.sh**](mailto:amandaseasholtzphotography@gmail.com).
+If you need to contact us for any reason; send an email to [**amandaseasholtzphotography@gmail.com**](mailto:amandaseasholtzphotography@gmail.com).
